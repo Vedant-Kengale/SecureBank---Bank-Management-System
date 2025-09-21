@@ -1,6 +1,4 @@
 # SecureBank-Bank Management System
-
-# Bank Management System
 A comprehensive digital banking platform that revolutionizes traditional banking workflows through automated financial operations and intelligent account management.
 
 # Problem Statement & Solution:
@@ -29,4 +27,5 @@ Real-time Updates: Instant balance and transaction status updates
 - Administrative Command Center - Centralized dashboard for system monitoring and user management
 - Audit Trail System - Complete transaction logging for compliance and tracking
 
-# Technical Excellence: Demonstrates advanced programming concepts including database normalization, secure coding practices, and scalable system design principles.
+# Technical Excellence: 
+- Demonstrates advanced programming concepts including database normalization, secure coding practices, and scalable system design principles.
